@@ -1,4 +1,4 @@
-# MovieLens-Machine-Learning-With-R-
+# MovieLens-Machine-Learning-With-R
 
 ## Introduction
 The MovieLens dataset was originally collected by GroupLens Research, a research team located in the Department of Computer Science and Engineering at the University of Minnesota. 
