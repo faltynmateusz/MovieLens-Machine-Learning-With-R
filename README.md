@@ -1,4 +1,4 @@
-# MovieLens-Machine-Learning-With-R
+# MovieLens Machine Learning With R
 
 Final project of the HarvardX Professional Certificate in Data Science (completed September 2019).
 
