@@ -1,5 +1,7 @@
 # MovieLens-Machine-Learning-With-R
 
+Final project of the HarvardX Professional Certificate in Data Science (completed September 2019).
+
 ## Introduction
 The MovieLens dataset was originally collected by GroupLens Research, a research team located in the Department of Computer Science and Engineering at the University of Minnesota. 
 
