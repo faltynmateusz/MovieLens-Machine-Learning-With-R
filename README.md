@@ -22,10 +22,15 @@ The movie and user effect (regularized) model proved to have the lowest RSME (0.
 ## Repository Status
 Complete and inactive as of August, 2019.
 
-## Installation Guide
+## Installation
+1. Download and install [R](https://www.r-project.org/).
+2. Clone this repository onto your local machine.
+3. Install and import all of the required packages.
 
+## Usage
+Execute the code in R or RStudio (guide [here](https://support.rstudio.com/hc/en-us/articles/200484448-Editing-and-Executing-Code)).
 
-## Technologies Used
+## Technologies
 
 ### Languages
 R
