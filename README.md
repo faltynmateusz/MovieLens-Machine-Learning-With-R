@@ -42,7 +42,7 @@ N/A
 N/A
 
 ## Known Bugs
-None.
+None
 
 ## Copyright
 [MIT](https://choosealicense.com/licenses/mit/)
