@@ -30,6 +30,12 @@ Complete and inactive as of August, 2019.
 ## Usage
 Execute the code in R or RStudio (guide [here](https://support.rstudio.com/hc/en-us/articles/200484448-Editing-and-Executing-Code)).
 
+## Contributing
+
+For minor changes or suggestions, please open an issue first to discuss what you would like to change. 
+
+For larger changes or suggestions, please email Mateusz Faltyn (faltynm@mcmaster.ca). 
+
 ## Technologies
 
 ### Languages
